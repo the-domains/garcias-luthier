@@ -1,7 +1,7 @@
 name: Garcias Luthier
 favicon: null
-layout_spectrum: 0.5084177772514522
-typography_spectrum: 0.6761818728409708
+layout_spectrum: 0.25264
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6288230812642723
-  lightness: 0.7150253159925342
-  saturation: 0.8320841426029801
-  rhythmicContrast: 0.5454975280445069
+    - '#fffbff'
+    - '#0e090f'
+    - '#937865'
+    - '#7f4738'
+    - '#c4a183'
+  brandStrength: 0.375
+  lightness: 0.8125
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
